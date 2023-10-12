@@ -29,9 +29,9 @@ Para teste dos arquivos com node, dentro da pasta clonada, utilize o comando aba
 ```
 ## Links das Resolução
 
-- Resolução Exercicio 1 -> [Exercicio 1]()
-- Resolução Exercicio 2 -> [Exercicio 2]()
-- Resolução Exercicio 3 -> [Exercicio 3]()
+- Resolução Exercicio 1 -> [Exercicio 1](https://github.com/Mariano-JR/vemsertech-aula3/blob/main/exercicio1.js)
+- Resolução Exercicio 2 -> [Exercicio 2](https://github.com/Mariano-JR/vemsertech-aula3/blob/main/exercicio2.js)
+- Resolução Exercicio 3 -> [Exercicio 3](https://github.com/Mariano-JR/vemsertech-aula3/blob/main/exercicio3.js)
 
 
 ## Autores
